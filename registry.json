@@ -10,6 +10,8 @@
       "author": "Knowbase",
       "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/study-pack-1.2.0.zip",
       "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/study-pack-icon.svg",
+      "riskLevel": "A",
+      "contributions": ["habitPresets", "bookmarkPresets", "blogTemplates", "theme", "pomodoroPresets", "helpDocs"],
       "size": 1605,
       "updatedAt": "2026-08-26"
     }
