@@ -1,0 +1,16 @@
+{
+  "registryVersion": 1,
+  "updatedAt": "2026-08-26",
+  "plugins": [
+    {
+      "id": "sample.study-pack",
+      "name": "学习资源示例包",
+      "version": "1.0.0",
+      "description": "示例插件:3 个健康习惯预设 + CS 学习网址包",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/study-pack-1.0.0.zip",
+      "size": 1024,
+      "updatedAt": "2026-08-26"
+    }
+  ]
+}
