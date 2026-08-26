@@ -1,6 +1,6 @@
 {
     "updatedAt":  "2026-08-26",
-    "registryVersion":  5,
+    "registryVersion":  6,
     "plugins":  [
                     {
                         "id":  "knowbase.themes-collection",
@@ -48,6 +48,22 @@
                                               "bookmarkPresets"
                                           ],
                         "size":  1074,
+                        "updatedAt":  "2026-08-26"
+                    },
+                    {
+                        "id":  "knowbase.kb-408-pack",
+                        "name":  "408 学习空间",
+                        "version":  "1.0.1",
+                        "description":  "考研 408 全科知识体系:数据结构 / 计算机组成 / 操作系统 / 计算机网络四大笔记本、25 章、76 个专题页面,含 39 个分步动画(内嵌播放)、公式与 SVG 示意图。安装后一键导入为新学习空间。",
+                        "author":  "Knowbase",
+                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-408-pack-1.0.1.zip",
+                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/kb-408-pack-icon.svg",
+                        "category":  "知识包",
+                        "riskLevel":  "A",
+                        "contributions":  [
+                                              "knowledgePages"
+                                          ],
+                        "size":  1479215,
                         "updatedAt":  "2026-08-26"
                     }
                 ]
