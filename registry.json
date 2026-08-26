@@ -1,6 +1,6 @@
 {
-    "updatedAt":  "2026-08-26",
-    "registryVersion":  9,
+    "updatedAt":  "2026-08-27",
+    "registryVersion":  10,
     "plugins":  [
                     {
                         "id":  "knowbase.themes-collection",
@@ -8,7 +8,7 @@
                         "version":  "1.4.0",
                         "description":  "四套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城",
                         "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.1.0.zip",
+                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.4.0.zip",
                         "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-icon.svg",
                         "category":  "外观",
                         "riskLevel":  "S",
@@ -56,7 +56,7 @@
                         "version":  "1.1.0",
                         "description":  "考研 408 全科知识体系:四大教材笔记本(25 章 76 页,含 39 个分步动画与 140 张 SVG 示意图)+ 历年真题(2009-2026 共 18 套,按年份成章、每科一页,答案解析折叠)。安装后一键导入为新学习空间。",
                         "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-408-pack-1.0.1.zip",
+                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-408-pack-1.1.0.zip",
                         "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/kb-408-pack-icon.svg",
                         "category":  "知识包",
                         "riskLevel":  "A",
