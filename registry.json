@@ -1,11 +1,11 @@
 {
     "updatedAt":  "2026-08-26",
-    "registryVersion":  4,
+    "registryVersion":  5,
     "plugins":  [
                     {
                         "id":  "knowbase.themes-collection",
                         "name":  "主题合集",
-                        "version":  "1.2.0",
+                        "version":  "1.3.0",
                         "description":  "四套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城",
                         "author":  "Knowbase",
                         "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.1.0.zip",
@@ -15,7 +15,7 @@
                         "contributions":  [
                                               "theme"
                                           ],
-                        "size":  1725,
+                        "size":  1924,
                         "updatedAt":  "2026-08-26"
                     },
                     {
