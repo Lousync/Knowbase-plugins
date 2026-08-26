@@ -1,6 +1,6 @@
 {
     "updatedAt":  "2026-08-26",
-    "registryVersion":  2,
+    "registryVersion":  3,
     "plugins":  [
                     {
                         "id":  "knowbase.themes-collection",
@@ -48,22 +48,6 @@
                                               "bookmarkPresets"
                                           ],
                         "size":  1074,
-                        "updatedAt":  "2026-08-26"
-                    },
-                    {
-                        "id":  "knowbase.ai-tools-nav",
-                        "name":  "AI 工具导航",
-                        "version":  "1.0.0",
-                        "description":  "主流 AI 对话、模型社区与论文检索站点合集",
-                        "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.ai-tools-nav-1.0.0.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.ai-tools-nav-icon.svg",
-                        "category":  "工具",
-                        "riskLevel":  "A",
-                        "contributions":  [
-                                              "bookmarkPresets"
-                                          ],
-                        "size":  1011,
                         "updatedAt":  "2026-08-26"
                     }
                 ]
