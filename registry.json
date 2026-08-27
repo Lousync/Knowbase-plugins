@@ -1,22 +1,22 @@
 {
     "updatedAt":  "2026-08-27",
-    "registryVersion":  10,
+    "registryVersion":  11,
     "plugins":  [
                     {
                         "id":  "knowbase.themes-collection",
                         "name":  "主题合集",
-                        "version":  "1.4.0",
+                        "version":  "1.4.1",
                         "description":  "四套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城",
                         "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.4.0.zip",
+                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.4.1.zip",
                         "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-icon.svg",
                         "category":  "外观",
                         "riskLevel":  "S",
                         "contributions":  [
                                               "theme"
                                           ],
-                        "size":  2066,
-                        "updatedAt":  "2026-08-26"
+                        "size":  2091,
+                        "updatedAt":  "2026-08-27"
                     },
                     {
                         "id":  "knowbase.pomodoro-presets-pro",
