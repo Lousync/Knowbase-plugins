@@ -1,6 +1,6 @@
 {
     "updatedAt":  "2026-08-28",
-    "registryVersion":  13,
+    "registryVersion":  14,
     "plugins":  [
                     {
                         "id":  "knowbase.markdown-guide",
@@ -45,22 +45,6 @@
                                               "pomodoroPresets"
                                           ],
                         "size":  873,
-                        "updatedAt":  "2026-08-26"
-                    },
-                    {
-                        "id":  "knowbase.cpp-docs-pack",
-                        "name":  "C++ 官方文档集",
-                        "version":  "1.0.0",
-                        "description":  "cppreference、标准草案、Compiler Explorer 与核心指南",
-                        "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.cpp-docs-pack-1.0.0.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.cpp-docs-pack-icon.svg",
-                        "category":  "知识包",
-                        "riskLevel":  "A",
-                        "contributions":  [
-                                              "bookmarkPresets"
-                                          ],
-                        "size":  1074,
                         "updatedAt":  "2026-08-26"
                     },
                     {
