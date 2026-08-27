@@ -1,18 +1,18 @@
 {
     "updatedAt":  "2026-08-28",
-    "registryVersion":  12,
+    "registryVersion":  13,
     "plugins":  [
                     {
-                        "id":  "knowbase.markdown-html-guide",
-                        "name":  "Markdown 内嵌 HTML 速查",
+                        "id":  "knowbase.markdown-guide",
+                        "name":  "Markdown使用指南",
                         "version":  "1.0.0",
-                        "description":  "Markdown 内嵌 HTML 语法速查(Markdown 教程 HTML 章总结):行级内联/区块标签/最佳实践/安全注意,附 Knowbase 渲染差异说明;一键导入学习空间《Markdown 语法速查》",
+                        "description":  "Markdown 基本语法完整指南(markdown.com.cn 教程总结):标题/段落/换行/强调/引用/列表/代码/分隔线/链接/图片/转义/内嵌 HTML,逐章示例与最佳实践;一键导入学习空间《Markdown 使用指南》",
                         "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-html-guide-1.0.0.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-html-guide-icon.svg",
+                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-guide-1.0.0.zip",
+                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-guide-icon.svg",
                         "category":  "知识包",
                         "riskLevel":  "S",
-                        "size":  5698,
+                        "size":  14894,
                         "updatedAt":  "2026-08-28"
                     },
                     {
