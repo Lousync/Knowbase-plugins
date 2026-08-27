@@ -1,7 +1,20 @@
 {
     "updatedAt":  "2026-08-28",
-    "registryVersion":  14,
+    "registryVersion":  15,
     "plugins":  [
+                    {
+                        "id":  "knowbase.password-generator",
+                        "name":  "强密码生成器",
+                        "version":  "1.0.2",
+                        "description":  "生成高强度随机密码:长度与字符类型可调,密码学安全随机数,支持一键复制。原随应用内置,现转为市场插件可自由卸载。",
+                        "author":  "Knowbase",
+                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.password-generator-1.0.2.zip",
+                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.password-generator-icon.svg",
+                        "category":  "工具",
+                        "riskLevel":  "B",
+                        "size":  4708,
+                        "updatedAt":  "2026-08-28"
+                    },
                     {
                         "id":  "knowbase.markdown-guide",
                         "name":  "Markdown使用指南",
