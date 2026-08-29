@@ -1,80 +1,80 @@
 {
-    "updatedAt":  "2026-08-28",
-    "registryVersion":  15,
-    "plugins":  [
-                    {
-                        "id":  "knowbase.password-generator",
-                        "name":  "强密码生成器",
-                        "version":  "1.0.2",
-                        "description":  "生成高强度随机密码:长度与字符类型可调,密码学安全随机数,支持一键复制。原随应用内置,现转为市场插件可自由卸载。",
-                        "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.password-generator-1.0.2.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.password-generator-icon.svg",
-                        "category":  "工具",
-                        "riskLevel":  "B",
-                        "size":  4708,
-                        "updatedAt":  "2026-08-28"
-                    },
-                    {
-                        "id":  "knowbase.markdown-guide",
-                        "name":  "Markdown使用指南",
-                        "version":  "1.0.0",
-                        "description":  "Markdown 基本语法完整指南(markdown.com.cn 教程总结):标题/段落/换行/强调/引用/列表/代码/分隔线/链接/图片/转义/内嵌 HTML,逐章示例与最佳实践;一键导入学习空间《Markdown 使用指南》",
-                        "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-guide-1.0.0.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-guide-icon.svg",
-                        "category":  "知识包",
-                        "riskLevel":  "S",
-                        "size":  14894,
-                        "updatedAt":  "2026-08-28"
-                    },
-                    {
-                        "id":  "knowbase.themes-collection",
-                        "name":  "主题合集",
-                        "version":  "1.4.1",
-                        "description":  "四套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城",
-                        "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.4.1.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-icon.svg",
-                        "category":  "外观",
-                        "riskLevel":  "S",
-                        "contributions":  [
-                                              "theme"
-                                          ],
-                        "size":  2091,
-                        "updatedAt":  "2026-08-27"
-                    },
-                    {
-                        "id":  "knowbase.pomodoro-presets-pro",
-                        "name":  "番茄钟进阶预设",
-                        "version":  "1.0.0",
-                        "description":  "52-17 法、90 分钟深度工作块、120 分钟考试时间模拟",
-                        "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.pomodoro-presets-pro-1.0.0.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.pomodoro-presets-pro-icon.svg",
-                        "category":  "工具",
-                        "riskLevel":  "S",
-                        "contributions":  [
-                                              "pomodoroPresets"
-                                          ],
-                        "size":  873,
-                        "updatedAt":  "2026-08-26"
-                    },
-                    {
-                        "id":  "knowbase.kb-408-pack",
-                        "name":  "408 学习空间",
-                        "version":  "1.1.0",
-                        "description":  "考研 408 全科知识体系:四大教材笔记本(25 章 76 页,含 39 个分步动画与 140 张 SVG 示意图)+ 历年真题(2009-2026 共 18 套,按年份成章、每科一页,答案解析折叠)。安装后一键导入为新学习空间。",
-                        "author":  "Knowbase",
-                        "downloadUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-408-pack-1.1.0.zip",
-                        "iconUrl":  "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/kb-408-pack-icon.svg",
-                        "category":  "知识包",
-                        "riskLevel":  "A",
-                        "contributions":  [
-                                              "knowledgePages"
-                                          ],
-                        "size":  29318623,
-                        "updatedAt":  "2026-08-26"
-                    }
-                ]
+  "updatedAt": "2026-08-29",
+  "registryVersion": 16,
+  "plugins": [
+    {
+      "id": "knowbase.password-generator",
+      "name": "强密码生成器",
+      "version": "1.0.2",
+      "description": "生成高强度随机密码:长度与字符类型可调,密码学安全随机数,支持一键复制。原随应用内置,现转为市场插件可自由卸载。",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.password-generator-1.0.2.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.password-generator-icon.svg",
+      "category": "工具",
+      "riskLevel": "B",
+      "size": 4708,
+      "updatedAt": "2026-08-28"
+    },
+    {
+      "id": "knowbase.markdown-guide",
+      "name": "Markdown使用指南",
+      "version": "1.0.0",
+      "description": "Markdown 基本语法完整指南(markdown.com.cn 教程总结):标题/段落/换行/强调/引用/列表/代码/分隔线/链接/图片/转义/内嵌 HTML,逐章示例与最佳实践;一键导入学习空间《Markdown 使用指南》",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-guide-1.0.0.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.markdown-guide-icon.svg",
+      "category": "知识包",
+      "riskLevel": "S",
+      "size": 14894,
+      "updatedAt": "2026-08-28"
+    },
+    {
+      "id": "knowbase.themes-collection",
+      "name": "主题合集",
+      "version": "1.4.1",
+      "description": "四套精选主题一键装:GitHub Dark / GitHub Light / 护眼米白纸感 / 赛博朋克夜城",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-1.4.1.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/themes-collection-icon.svg",
+      "category": "外观",
+      "riskLevel": "S",
+      "contributions": [
+        "theme"
+      ],
+      "size": 2091,
+      "updatedAt": "2026-08-27"
+    },
+    {
+      "id": "knowbase.pomodoro-presets-pro",
+      "name": "番茄钟进阶预设",
+      "version": "1.0.0",
+      "description": "52-17 法、90 分钟深度工作块、120 分钟考试时间模拟",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.pomodoro-presets-pro-1.0.0.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.pomodoro-presets-pro-icon.svg",
+      "category": "工具",
+      "riskLevel": "S",
+      "contributions": [
+        "pomodoroPresets"
+      ],
+      "size": 873,
+      "updatedAt": "2026-08-26"
+    },
+    {
+      "id": "knowbase.kb-408-pack",
+      "name": "408 学习空间",
+      "version": "1.2.0",
+      "description": "考研 408 全科知识体系:四大教材笔记本(25 章 76 页,含 39 个分步动画与 140 张 SVG 示意图)+ 历年真题(2009-2026 共 18 套,按年份成章、每科一页,答案解析折叠)。v1.2 修复:大题解析排版结构化(每小问加粗标题、独立成段、代码块归属正确)。安装后一键导入为新学习空间。",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-408-pack-1.2.0.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/kb-408-pack-icon.svg",
+      "category": "知识包",
+      "riskLevel": "A",
+      "contributions": [
+        "knowledgePages"
+      ],
+      "size": 29314718,
+      "updatedAt": "2026-08-29"
+    }
+  ]
 }
