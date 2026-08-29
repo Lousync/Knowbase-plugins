@@ -63,17 +63,17 @@
     {
       "id": "knowbase.kb-408-pack",
       "name": "408 学习空间",
-      "version": "1.2.0",
-      "description": "考研 408 全科知识体系:四大教材笔记本(25 章 76 页,含 39 个分步动画与 140 张 SVG 示意图)+ 历年真题(2009-2026 共 18 套,按年份成章、每科一页,答案解析折叠)。v1.2 修复:大题解析排版结构化(每小问加粗标题、独立成段、代码块归属正确)。安装后一键导入为新学习空间。",
+      "version": "1.2.1",
+      "description": "考研 408 全科知识体系:四大教材笔记本(25 章 76 页,含 39 个分步动画与 140 张 SVG 示意图)+ 历年真题(2009-2026 共 18 套,按年份成章、每科一页,答案解析折叠)。v1.2 修复:大题解析排版结构化(每小问加粗标题、独立成段);v1.2.1 修复:解析内代码块改为缩进写法,答案折叠不再被嵌套围栏截断。安装后一键导入为新学习空间。",
       "author": "Knowbase",
-      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-408-pack-1.2.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-408-pack-1.2.1.zip",
       "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/kb-408-pack-icon.svg",
       "category": "知识包",
       "riskLevel": "A",
       "contributions": [
         "knowledgePages"
       ],
-      "size": 29314718,
+      "size": 29322728,
       "updatedAt": "2026-08-29"
     },
     {
