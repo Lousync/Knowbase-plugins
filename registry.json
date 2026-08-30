@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-08-29",
-  "registryVersion": 17,
+  "registryVersion": 18,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -91,6 +91,26 @@
       ],
       "size": 81638,
       "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "knowbase.quizbook",
+      "name": "错题本（插件版）",
+      "version": "0.2.0",
+      "description": "错题本彻底插件化：数据存插件自有表（plugin_knowbase_quizbook_*），书架按科目分、书内按章节归档，重刷复用宿主刷题器。需应用支持 C 级模块插件。",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.quizbook-0.2.0.zip",
+      "category": "学习",
+      "riskLevel": "C",
+      "capabilities": [
+        "data",
+        "knowledge"
+      ],
+      "contributions": [
+        "tables",
+        "views"
+      ],
+      "size": 4935,
+      "updatedAt": "2026-08-30"
     }
   ]
 }
