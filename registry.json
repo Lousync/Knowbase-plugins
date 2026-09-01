@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29",
-  "registryVersion": 19,
+  "updatedAt": "2026-09-01",
+  "registryVersion": 20,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -112,6 +112,22 @@
       "size": 5450,
       "updatedAt": "2026-08-30",
       "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.quizbook-icon.svg"
+    },
+    {
+      "id": "knowbase.teach-skill",
+      "name": "Teach 教学助手",
+      "version": "1.0.0",
+      "description": "引导式教学 Skill：让 AI 像优秀教师一样教人——评估理解水平、从已知到未知搭建解释、苏格拉底式提问检查理解、实时调整、练习强化。适用于系统性教学场景。源自社区 teach skill（pjt222/agent-almanac，MIT）。",
+      "author": "Knowbase",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.teach-skill-1.0.0.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.teach-skill-icon.svg",
+      "category": "Skill",
+      "riskLevel": "S",
+      "contributions": [
+        "skills"
+      ],
+      "size": 2455,
+      "updatedAt": "2026-09-01"
     }
   ]
 }
