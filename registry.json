@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-01",
-  "registryVersion": 20,
+  "updatedAt": "2026-09-02",
+  "registryVersion": 21,
   "plugins": [
     {
       "id": "knowbase.password-generator",
@@ -79,18 +79,18 @@
     {
       "id": "knowbase.kb-politics-pack",
       "name": "考研政治学习空间",
-      "version": "1.0.0",
-      "description": "考研政治知识包：六大模块知识点（马原/毛中特/新思想/史纲/思修法基/形策当代 9+5+8+5+6+4 页）+ 2026 时政专题 + 刷题库（42 道选择题，导入即刷题判题）+ 分析题模板（点-析-结+五科 34-38）+ 历年真题考点回顾（2024-2026）+ 背诵手册（时间轴/会议/土地政策/毛著作/帽子题）。内容依据考试大纲与统编教材整理，仅供个人学习交流。安装后一键导入为新学习空间。",
+      "version": "1.0.1",
+      "description": "考研政治 2026 全阶段知识包（马原/毛中特/史纲/思修/当代 56 页体系化笔记 + 2009-2026 真题）。v1.0.1：适配知识库仓库文件（vault）读源。",
       "author": "Knowbase",
-      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-politics-pack-1.0.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/knowbase.kb-politics-pack-1.0.1.zip",
       "iconUrl": "https://raw.githubusercontent.com/Lousync/Knowbase-plugins/main/plugins/kb-politics-pack-icon.svg",
       "category": "知识包",
       "riskLevel": "A",
       "contributions": [
         "knowledgePages"
       ],
-      "size": 81638,
-      "updatedAt": "2026-08-29"
+      "size": 79601,
+      "updatedAt": "2026-09-02"
     },
     {
       "id": "knowbase.quizbook",
